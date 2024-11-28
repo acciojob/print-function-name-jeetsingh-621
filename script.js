@@ -1,7 +1,7 @@
 //your JS code here. If required.
-function jitu() {
+function functionName() {
     alert(arguments.callee.name);
 }
 
 // Calling the function
-jitu();
+functionName();
